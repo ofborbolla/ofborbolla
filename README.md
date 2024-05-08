@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at InterBrokers as FullStack Developer | Director TI.\
+👨‍💻 &nbsp;I am Currently Working at InterBrokers as FullStack Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Data Analytics, Microservice Based Architecture, Machine Learning.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
